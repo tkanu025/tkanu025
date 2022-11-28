@@ -6,7 +6,7 @@
 
 
 - I am passionate about creating new things either through code or Media.
-- 
+- Old github account https://github.com/kanuthakor
 - 🎥 I create videos at [youtube.com/@tkanu025](youtube.com/@tkanu025)
 
 - 💬 Ask me about **Flutter**
